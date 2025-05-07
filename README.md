@@ -53,7 +53,7 @@
 
 
 
-# 🚀 Cloudy007777 | AI/ML & LLM Researcher  
+   AI/ML & LLM Researcher  
 🔹 Passionate AI/ML Developer | LLM Enthusiast | Generative AI | Deep Learning  
 🔹 Exploring the cutting edge of AI with Large Language Models & Computer Vision  
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 🧠 Currently Working On:  
+##  Currently Working On:  
 - 🏗 **Large Language Models (LLMs):** Fine-tuning **GPT-2** for text generation, exploring transformer-based architectures.  
 - 🎯 **Image Recognition & Face Recognition:** Built EfficientNet models (**B0, B4, B7**) for a **face recognition attendance system**.  
 - 🔐 **Image Steganography:** AI-powered techniques for secure **data hiding & privacy-preserving communication**.  
@@ -69,7 +69,7 @@
 
 ---
 
-## 🔬 Research & Development:  
+##  Research & Development:  
 - 🏆 **Deep Learning Architectures:** Working with **EfficientNet, Inception-ResNet-v2, Transformers**.  
 - 🎯 **Computer Vision & Object Detection:** Implemented **YOLO, EfficientDet** for real-world applications.  
 - 🤖 **Generative AI & NLP:** Experimenting with **GPT-2, fine-tuning LLMs for AI chatbots & content generation**.  
@@ -77,14 +77,14 @@
 
 ---
 
-## 📚 Currently Learning & Exploring:  
+##  Currently Learning & Exploring:  
 - ⚡ **PyTorch & TensorFlow (tf_keras):** Advanced model training & optimization techniques.  
 - 🧠 **LLMs & Generative AI:** Model fine-tuning, prompt engineering & real-world applications.  
 - 📝 **Advanced NLP Techniques:** Training **transformers for summarization, Q&A systems, and chatbot development**.  
 
 ---
 
-## 🏆 My Achievements & Contributions:  
+##  My Achievements & Contributions:  
 ✅ Developed an **AI-powered face recognition attendance system**.  
 ✅ Conducted **research on EfficientNet & Inception-ResNet-v2** for high-accuracy classification.  
 ✅ Built an **image recognition chatbot** with **object detection & NLP capabilities**.  
