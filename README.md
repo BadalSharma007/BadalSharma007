@@ -4,15 +4,19 @@ B.Tech CSE (AI & ML), Sharda University — 3rd year, 8.4 CGPA. I build language
 
 ---
 
-## Competitions
+## Competitions & Rankings
 
 | Competition | Result |
 |---|---|
 | **Amazon ML Challenge 2025** | Rank **663 / 80,332 teams** — XGBoost + TF-IDF + 400+ engineered features |
 | **Kaggle · Heart Disease Prediction** | Rank **16 / 4,507 — Top 0.4%** · AUC 0.95410 |
+| **Kaggle · Road Accident Risk (S5E10)** | Rank **445 / 10,285 — Top 4.3%** · LightGBM + XGBoost ensemble |
 | **Kaggle · Student Test Scores (S6E1)** | Rank **613 / 4,319 — Top 15%** |
-| **NCAA March ML Mania 2026** | 5-model ensemble · RF + XGB + CatBoost + LGB + PyTorch · Optuna tuning + Elo features |
-| **LeetCode** | Rating **1770** |
+| **NCAA March ML Mania 2026** | 5-model ensemble · RF + XGB + CatBoost + LGB + PyTorch · Optuna + Elo features |
+| **Hacknovate Hackathon** | **Rank 3** |
+| **LeetCode** | Rating **1770** · Best Contest Rank **54** |
+| **Codeforces** | Rating **1054** |
+| **Kaggle** | **Expert** · 13 Badges · Best Rank 16 / 4,568 |
 
 ---
 
@@ -57,6 +61,8 @@ Built Power BI dashboards over 15K+ customer feedback entries. Surfaced 3 key ch
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 
 **AI / ML**
@@ -114,8 +120,8 @@ Built Power BI dashboards over 15K+ customer feedback entries. Surfaced 3 key ch
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/sonusharma4201434@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonusharma4201434@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_9798996339-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919798996339)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badal-kr-sharma-471a19263/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Badal_kr_sharma)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/BadalSharma007)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1054-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_HANDLE)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Cloudy_9_3)
