@@ -111,7 +111,11 @@ Built Power BI dashboards over 15K+ customer feedback entries. Surfaced 3 key ch
 
 ---
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/Badal_kr_sharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badal-kr-sharma-471a19263/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/BadalSharma007)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/Cloudy_9_3)
+## Contact
+
+[![Gmail](https://img.shields.io/badge/sonusharma4201434@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonusharma4201434@gmail.com)
+[![Phone](https://img.shields.io/badge/+91_9798996339-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919798996339)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badal-kr-sharma-471a19263/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Badal_kr_sharma)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/BadalSharma007)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Cloudy_9_3)
