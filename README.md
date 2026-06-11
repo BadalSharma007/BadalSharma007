@@ -1,7 +1,8 @@
 # Badal Kumar Sharma
 
-B.Tech CSE (AI & ML), Sharda University — 3rd year, 8.4 CGPA. I build language models, computer vision systems, and agentic AI pipelines. Sometimes hardware too.
+🌐 **Portfolio:** [badalsharma.me](https://badalsharma.me)
 
+B.Tech CSE (AI & ML), Sharda University — 3rd year, 8.4 CGPA. I build language models, computer vision systems, and agentic AI pipelines. Sometimes hardware too.
 ---
 
 ## Competitions & Rankings
