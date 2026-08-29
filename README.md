@@ -2,7 +2,7 @@
 
 🌐 **Portfolio:** [badalsharma.me](https://badalsharma.me)
 
-B.Tech CSE (AI & ML), Sharda University — $th year. I build language models, computer vision systems, and agentic AI pipelines. Sometimes hardware too.
+B.Tech CSE (AI & ML), Sharda University — 4th year. I build language models, computer vision systems, and agentic AI pipelines. Sometimes hardware too.
 ---
 
 ## Competitions & Rankings
